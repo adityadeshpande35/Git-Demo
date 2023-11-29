@@ -91,6 +91,8 @@ TestDataBuild data=new TestDataBuild();
 		String actualname=getJsonPath(response, "name");
 		assertEquals(actualname, expectedName);
 		   System.out.println("Postjira5");
+		   System.out.println("Postjira6");
+		   System.out.println("Postjira7");
 	}
 
 	
