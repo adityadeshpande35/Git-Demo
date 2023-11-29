@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="0" name="cucumber.Options.TestRunner" time="93.05" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="17.0.2+8-LTS-86"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.2\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Rest Api\ApiFramework"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Rest Api\ApiFramework"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="17.0.2+8-LTS-86"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Aditya\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Program Files\apache-maven-3.6.3\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\apache-maven-3.6.3;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32\Webm;C:\Users\Aditya\AppData\Local\Android\Sdk\tools\bin;C:\Users\Aditya\AppData\Local\Android\Sdk\tools;C:\Users\Aditya\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.6.3\bin;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Server 8.0\bin;D:\axis2-1.6.2\bin;C:\Program Files\PuTTY\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\MongoDB\Server\4.4\bin;D:\apache-jmeter-5.1\bin;C:\strawberry\c\bin;C:\strawberry\perl\bin;C:\Program Files\Java\jdk-17.0.2\bin;E:\apache-ant-1.9.16-bin\apache-ant-1.9.16\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;D:\Kukbernet;C:\Program Files\Kubernetes\Minikube;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Aditya\AppData\Roaming\ActiveState\bin;C:\Program Files (x86)\ActiveState Komodo IDE 12\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;&quot;C:\Program Files\apache-maven-3.6.3&quot;;\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32\Webm;C:\Users\Aditya\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Aditya\AppData\Local\Microsoft\WindowsApps;C:\Users\Aditya\AppData\Roaming\npm;."/>
+    <property name="maven.conf" value="C:\Program Files\apache-maven-3.6.3\bin\../conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="61.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.net.preferIPv4Stack" value="true"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Program Files\apache-maven-3.6.3\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\Aditya"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="17"/>
+    <property name="cucumber.filter.tags" value="@Regression"/>
+    <property name="user.name" value="Aditya"/>
+    <property name="java.class.path" value="C:\Program Files\apache-maven-3.6.3\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test verify -Dcucumber.filter.tags=@Regression"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.2"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="17.0.2"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\apache-maven-3.6.3\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2022-01-18"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Validating Place API&apos;s" name="Verify if place is being Successfully added using AddPlaceAPI" time="91.862"/>
+  <testcase classname="Validating Place API&apos;s" name="Verify if Delete Place functionality is working" time="1.188"/>
+</testsuite>
