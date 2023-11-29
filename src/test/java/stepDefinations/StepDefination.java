@@ -72,6 +72,9 @@ TestDataBuild data=new TestDataBuild();
 	 //  System.out.println(js.get(KeyValue).toString());
 	  // System.out.println(ExpectedValue);
 	   assertEquals(getJsonPath(response, KeyValue), ExpectedValue);
+	   System.out.println("hello");
+	   System.out.println("world");
+
 	}
 
 	
