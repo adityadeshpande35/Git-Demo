@@ -74,7 +74,10 @@ TestDataBuild data=new TestDataBuild();
 	   assertEquals(getJsonPath(response, KeyValue), ExpectedValue);
 	   System.out.println("hello");
 	   System.out.println("world");
-
+	   System.out.println("Postjira1");
+	   System.out.println("Postjira2");
+	   System.out.println("Postjira3");
+	   System.out.println("Postjira4");
 	}
 
 	
@@ -87,6 +90,7 @@ TestDataBuild data=new TestDataBuild();
 		user_calls_with_http_request(resource, "GET");
 		String actualname=getJsonPath(response, "name");
 		assertEquals(actualname, expectedName);
+		   System.out.println("Postjira5");
 	}
 
 	
